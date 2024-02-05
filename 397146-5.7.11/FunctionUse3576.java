@@ -1,0 +1,6 @@
+import cn.hutool.core.lang.copier.SrcToDestCopier;
+public class FunctionUse3576 {
+public void funcUse() {
+SrcToDestCopier srctodestcopier = new SrcToDestCopier();
+}
+}
